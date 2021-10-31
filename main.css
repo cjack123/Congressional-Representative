@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(214, 146, 146);
+}
+
+article {
+    position: absolute;
+    left: 20%;
+    top: 2%;
+    justify-content: center;
+    /*width: 45%*/
+}
+
+.career {
+    margin-bottom: 5%;
+    margin-right: 5%;
+}
+
+.commit {
+    /*border: 2px solid;
+    border-color: black;*/
+    margin-bottom: 5%;
+}
